@@ -7,5 +7,6 @@ Input:
 
 2) abc.txt is the input text file whos output you need to convert to your handwriting.
 
+Output:
 
 ![](image/output.JPG)
